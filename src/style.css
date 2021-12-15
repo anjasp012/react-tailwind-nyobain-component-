@@ -1,0 +1,7 @@
+.bg-fixed{
+    background-image: url('https://cdn.dribbble.com/users/3840995/screenshots/17049353/media/5ae48ece99633f93baee86958f470ee9.png');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    /* background-attachment: fixed; */
+}
